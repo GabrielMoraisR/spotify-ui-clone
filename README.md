@@ -29,8 +29,6 @@ Use o seguinte comando:
 
 ### `npm start`
 
-```
-
 ## 🛠️ Construído com
 
 Mencione as ferramentas que você usou para criar seu projeto
